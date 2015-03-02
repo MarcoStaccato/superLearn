@@ -3,8 +3,8 @@
     <head>
         <title>SuperLearner</title>
         <meta charset="utf-8">
-        <meta name="author" content="pixelhint.com">
-        <meta name="description" content="Sublime Stunning free HTML5/CSS3 website template"/>
+        <meta name="author" content="Marco Staccato">
+        <meta name="description" content="SuperLearner on Jelastic/TomEE"/>
         <link rel="stylesheet" type="text/css" href="${ctxJSP}/landing/css/reset.css">
         <link rel="stylesheet" type="text/css" href="${ctxJSP}/landing/css/fancybox-thumbs.css">
         <link rel="stylesheet" type="text/css" href="${ctxJSP}/landing/css/fancybox-buttons.css">
